@@ -1,14 +1,14 @@
 # 🌐 SSG Review — учебный проект
 
-🔗 **Live-сайт:** https://polina222232.github.io/ssg-review/  
-🔗 **Репозиторий:** https://github.com/polina222232/ssg-review
+🔗 **Live-сайт:** ](https://polinburenkova.github.io/ssg-review/)  
+🔗 **Репозиторий:** https://github.com/polinburenkova/ssg-review
 
 ## 👤 Автор
 
 **Буренкова Полина Алексеевна**  
 📧 Email: [polinaburenkova01@gmail.com](mailto:polinaburenkova01@gmail.com)  
 💬 Telegram: [@Polina_Burenkova](https://t.me/Polina_Burenkova)  
-🐙 GitHub: [polina222232](https://github.com/polina222232)
+🐙 GitHub: [polinburenkova](https://github.com/polinburenkova)
 
 ## 📚 Тема проекта
 
